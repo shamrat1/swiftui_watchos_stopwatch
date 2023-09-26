@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B14062A02AC2ABA900F92638 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B140629F2AC2ABA900F92638 /* SettingView.swift */; };
 		B1F0F9482AC1A79D00332453 /* stopwatch Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = B1F0F9472AC1A79D00332453 /* stopwatch Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		B1F0F94D2AC1A79D00332453 /* stopwatchApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1F0F94C2AC1A79D00332453 /* stopwatchApp.swift */; };
 		B1F0F94F2AC1A79D00332453 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1F0F94E2AC1A79D00332453 /* ContentView.swift */; };
@@ -39,6 +40,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B140629F2AC2ABA900F92638 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
 		B1F0F9412AC1A79D00332453 /* stopwatch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = stopwatch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1F0F9472AC1A79D00332453 /* stopwatch Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "stopwatch Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1F0F94C2AC1A79D00332453 /* stopwatchApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stopwatchApp.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				B1F0F94E2AC1A79D00332453 /* ContentView.swift */,
 				B1F0F9502AC1A79F00332453 /* Assets.xcassets */,
 				B1F0F9522AC1A79F00332453 /* Preview Content */,
+				B140629F2AC2ABA900F92638 /* SettingView.swift */,
 			);
 			path = "stopwatch Watch App";
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B14062A02AC2ABA900F92638 /* SettingView.swift in Sources */,
 				B1F0F94F2AC1A79D00332453 /* ContentView.swift in Sources */,
 				B1F0F94D2AC1A79D00332453 /* stopwatchApp.swift in Sources */,
 			);
